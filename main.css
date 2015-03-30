@@ -127,6 +127,10 @@ color: #BC3E48;
 Media Queries
 ****************************************/
 @media screen and (max-width: 820px) {
+    body {
+        width: 85%;
+        margin: 40px auto;
+    }
     .left_content {
         width: 25%;
     }
